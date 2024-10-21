@@ -1,0 +1,50 @@
+.partners-container {
+    text-align: center;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .partners-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .partners-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .partner-card {
+    width: 350px;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    background-color: #f9f9f9;
+  }
+  
+  .partner-logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .partner-name {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .partner-description {
+    font-size: 1rem;
+    color: #555;
+    text-align: left;
+  }
+  
+  .partner-card:hover {
+    border-color: #007bff;
+    background-color: #f0f8ff;
+  }
+  

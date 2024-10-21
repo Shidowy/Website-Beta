@@ -1,0 +1,51 @@
+.learn-more-container {
+    text-align: center;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .learn-more-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .card {
+    width: 300px;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+  }
+  
+  .card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .red-border {
+    border-color: #ff6347; /* Tomato Red */
+  }
+  
+  .blue-border {
+    border-color: #1e90ff; /* Dodger Blue */
+  }
+  
+  .card:hover {
+    background-color: #f0f8ff;
+    transform: translateY(-5px);
+  }
+  

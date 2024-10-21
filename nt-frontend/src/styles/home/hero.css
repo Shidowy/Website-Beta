@@ -1,5 +1,5 @@
 .hero {
-    background-image: url('../assets/carousel_4.png'); /* Add your background image */
+    background-image: url('../../assets/carousel_4.png'); /* Add your background image */
     background-size: cover;
     background-position: center;
     color: white;
