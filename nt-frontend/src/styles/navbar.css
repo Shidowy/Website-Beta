@@ -1,0 +1,47 @@
+.navbar {
+    background-color: white; 
+    border-bottom: 2px solid #3b82f6; 
+  }
+  
+  .container {
+    max-width: 7xl; 
+    margin: 0 auto; 
+    padding: 0 1rem; 
+  }
+  
+  .navbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4rem; 
+  }
+  
+  .brand {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .brand-name {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    color: #1f2937; 
+  }
+  
+  .navigation {
+    display: flex;
+    gap: 16px; 
+  }
+  
+  .nav-link {
+    color: #6b7280; 
+    padding: 0.5rem 0.75rem; 
+    font-size: 0.875rem; 
+    font-weight: 500; 
+    transition: color 0.2s ease; 
+  }
+  
+  .nav-link:hover {
+    color: #374151; 
+  }
+  
