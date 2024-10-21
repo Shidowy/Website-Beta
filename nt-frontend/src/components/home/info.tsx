@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/home/info.css'; // Import CSS for styling
+import '../../styles/home/info.css'; // Import CSS for styling
 
 const Info: React.FC = () => {
   return (
