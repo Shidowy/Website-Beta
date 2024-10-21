@@ -1,8 +1,8 @@
 .hero {
-    background-image: url('path/to/your/background-image.jpg'); /* Add your background image */
+    background-image: url('../assets/carousel_4.png'); /* Add your background image */
     background-size: cover;
     background-position: center;
-    color: black;
+    color: white;
     padding: 80px 20px;
     text-align: center;
   }
@@ -21,19 +21,5 @@
   .hero-description {
     font-size: 1.25rem; 
     margin-bottom: 32px;
-  }
-  
-  .hero-cta {
-    background-color: #f87171; 
-    color: white;
-    padding: 12px 24px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: background-color 0.3s ease;
-  }
-  
-  .hero-cta:hover {
-    background-color: #ec6a6a; 
   }
   

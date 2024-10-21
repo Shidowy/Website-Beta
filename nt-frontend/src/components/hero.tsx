@@ -5,11 +5,10 @@ const Hero: React.FC = () => {
   return (
     <section className="hero">
       <div className="hero-container">
-        <h1 className="hero-title">Welcome to Our STEM Education Hub</h1>
+        <h1 className="hero-title">Project NexTech</h1>
         <p className="hero-description">
-          Empowering the next generation of technology enthusiasts and entrepreneurs through quality education.
+          Providing Free & Effective STEM education for all.
         </p>
-        <a href="/get-involved" className="hero-cta">Get Started</a>
       </div>
     </section>
   );
