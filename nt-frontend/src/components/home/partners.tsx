@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/home/partners.css';
+import '../../styles/home/partners.css';
 
 interface Partner {
     imageSrc: string;

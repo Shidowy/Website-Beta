@@ -1,27 +1,26 @@
-.hero {
+.hero1 {
     background-image: url('../../assets/carousel_4.png'); /* Add your background image */
     background-size: cover;
     background-position: center;
     padding: 80px 20px;
-    text-align: center;
+    text-align: left;
   }
   
-  .hero-container {
-    text-align: center;
+  .hero-container1 {
     max-width: 1200px;
     margin: 0 auto;
   }
   
-  .hero-title {
-    text-align: center;
+  .hero-title1 {
+    text-align: left;
     color: white;
     font-size: 2.5rem; 
     font-weight: bold;
     margin-bottom: 16px;
   }
   
-  .hero-description {
-    text-align: center;
+  .hero-description1 {
+    text-align: left;
     color: white;
     font-size: 1.25rem; 
     margin-bottom: 32px;

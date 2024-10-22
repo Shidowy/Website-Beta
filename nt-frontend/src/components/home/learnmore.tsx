@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/home/learnmore.css'
+import '../../styles/home/learnmore.css'
 
 interface Card {
   title: string;
