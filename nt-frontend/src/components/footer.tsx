@@ -1,7 +1,7 @@
 import React from 'react';
 import { Facebook, Instagram, Linkedin, Mail, Youtube } from 'lucide-react';
 import '../styles/home/footer.css';
-
+//e
 const Footer: React.FC = () => {
   return (
     <footer className="footer">
