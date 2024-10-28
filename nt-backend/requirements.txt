@@ -1,0 +1,6 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14.0
+psycopg2-binary>=2.9  # PostgreSQL database adapter
+django-environ>=0.10  # For environment variable management
+drf-yasg>=1.21.0      # Optional: For API documentation with Swagger
+gunicorn>=20.1.0      # Production server
