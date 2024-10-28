@@ -28,6 +28,7 @@
      ALLOWED_HOSTS=localhost,127.0.0.1
      DATABASE_URL=postgres://user:password@localhost:5432/dbname
      ```
+   - ** Talk to Shidowy (Wyatt), or Daniel
 5. **Set Up the Database**
    - Apply migrations to set up the database schema:
      ```bash
