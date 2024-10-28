@@ -5,8 +5,8 @@
 1. **Clone the Repository**
    - Start by cloning the repository to your local machine:
      ```bash
-     git clone https://github.com/Shidowy/your-django-project.git
-     cd your-django-project
+     git clone https://github.com/Shidowy/Website-Beta
+     cd nt-backend
      ```
 2. **Set Up a Virtual Environment**
    - It’s best to create a virtual environment for dependencies:
