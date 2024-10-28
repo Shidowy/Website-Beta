@@ -60,7 +60,7 @@
 3. **Configure Environment Variables**
    - Create a `.env` file in the project root with the necessary environment variables, for example:
      ```plaintext
-     REACT_APP_API_URL=http://localhost:8000/api
+     VITE_APP_API_URL=http://localhost:8000/api
      ```
 
 4. **Run the Development Server**
